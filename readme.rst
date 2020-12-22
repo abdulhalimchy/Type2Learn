@@ -1,7 +1,7 @@
 ###################
 Type2Learn
 ###################
-
+This is a typing speed measuring web application. CodeIgniter & MySQL is used in this project. User have to create/login to save his typing history. User can see his rank among all users by speed.
 
 ###################
 What is CodeIgniter
